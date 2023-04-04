@@ -26,6 +26,11 @@ Cadastro de Empresa e/ou Fornecedor
 - Banco: MySQL
 
 
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/xFYsST7/mainpage.png)
+
+
 ## Observações
 
 - Algumas pacotes utilizados Yarn: Express, Nodemon, Cors, react-toggle-slider, react, react-toastify.
